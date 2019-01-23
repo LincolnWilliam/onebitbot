@@ -1,0 +1,16 @@
+current directory: /home/lincoln/onebitbot/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190109-14497-necs1e.rb extconf.rb
+
+current directory: /home/lincoln/onebitbot/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Pare.
+
+current directory: /home/lincoln/onebitbot/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /home/lincoln/onebitbot/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
